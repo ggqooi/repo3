@@ -3,3 +3,6 @@
 3333333333333
 安达市多
 对对对
+add some content to hello.txt
+1111111111111111
+wwwwwwwwwwww
